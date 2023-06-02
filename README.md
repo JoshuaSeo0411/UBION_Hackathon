@@ -2,7 +2,7 @@
 
 UBION Hackathon dropna / 2023.02.10~2023.02.23
 
-![해1](https://github.com/JoshuaSeo0411/UBION_Hackathon/assets/124761683/dd9dbfe6-758a-46c9-a989-90f578357ebc)
+![해1](https://github.com/JoshuaSeo0411/UBION_Hackathon/assets/124761683/d50b2946-bb5b-4016-8c83-845c3dcb38b3)
 
 ![해2](https://github.com/JoshuaSeo0411/UBION_Hackathon/assets/124761683/20619ba1-50d5-4185-b7f9-68781f57846c)
 
